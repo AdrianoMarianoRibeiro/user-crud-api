@@ -3,6 +3,8 @@
 /node_modules
 /build
 /whatsapp-session
+.wwebjs_auth
+.wwebjs_cache
 
 # Logs
 logs
